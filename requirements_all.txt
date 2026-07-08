@@ -79,3 +79,4 @@ yandex-music==2.2.0
 ytmusicapi==1.11.5
 zeroconf==0.148.0
 zvuk-music[async]==0.5.3
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
